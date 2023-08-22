@@ -1,13 +1,13 @@
-### BOILERPLATE SNIPPET:
+### BOILERPLATE SNIPPET
 
-```assembly
+```bash
 ; Assembly Code
 .model small
 .stack 100h
 .data
 .code
 main proc
-  ; Write from here
+  ; Write code from here
 
   mov ah, 4ch
   int 21h
@@ -16,9 +16,7 @@ main endp
 end main
 ```
 
-### INSTALL DOSBOX
-
-For Ubuntu
+### INSTALL DOSBOX UBUNTU
 
 ```bash
 sudo nala install dosbox
@@ -36,23 +34,21 @@ MOUNT C directory_path
 EDIT filename.asm
 ```
 
-### COMPILE LINK AND RUN
+### COMPILE CODE, LINK OBJ FILE AND RUN PROGRAM
 
-### LINK OBJ FILE
-
-### RUN PROGRAM
-
-```js Compile
+```bash Compile
 MASM filename.asm
 ```
 
-```js Link
+```bash Link
 LINK filename.obj
 ```
 
-```js Run
+```bash Run
 filename.exe
 ```
+
+---
 
 # OR
 
