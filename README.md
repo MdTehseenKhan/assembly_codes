@@ -16,6 +16,18 @@ main endp
 end main
 ```
 
+# RECOMMENDED
+
+### INSTALL VSCODE EXTENSION
+
+MASM / TASM
+
+### RUN
+
+Right-Click on Code -> Run ASM Code
+
+---
+
 ### INSTALL DOSBOX UBUNTU
 
 ```bash
@@ -47,10 +59,3 @@ LINK filename.obj
 ```bash Run
 filename.exe
 ```
-
----
-
-# OR
-
-INSTALL VSCODE EXTENSION - MASM / TASM
-RUN - Right-Click on Code -> Run ASM Code
