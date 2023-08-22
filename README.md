@@ -1,6 +1,6 @@
 ### BOILERPLATE SNIPPET
 
-```bash
+```assembly
 ; Assembly Code
 .model small
 .stack 100h
